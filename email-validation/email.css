@@ -1,0 +1,27 @@
+li{
+    list-style-type: none;
+    font-size: 16pt;
+}
+.mail{
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 420px;
+    border-radius: 10px;
+    background: rgb(192, 79, 226);
+    border: 1px solid rgb(24, 24, 24);
+}
+.mail h2{
+    margin-left: 38px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+input {
+    font-size: 20pt;
+}
+input:focus, textarea:focus {
+    background-color: lightgoldenrodyellow;
+}
+input submit {
+    font-size: 10pt;
+    color: brown;
+}
